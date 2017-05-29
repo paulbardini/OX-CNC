@@ -16,8 +16,9 @@ My only request is to fork or push new modifications to this reposiroty to futur
 
 
 ***
-#### My current occupation is as a research students - my focus is on Open Source and how it is used within product design and art
-#### The following if a necessary ethis requirement for this research
+#### My current occupation is as a research students - 
+#### My focus - Open Source and how it is used within product design and art
+#### The following if a necessary ethics requirement for this research.
 
 #### THIS IS AN ONGOING PROJECT AND I AM ASKING FOR HELP TO FURTHER THIS TECHNOLOGY.
 #### PLEASE NOTE THAT THIS IS ASSOCIATED WITH A UNIVERSITY RESEARCH PROJECT  
