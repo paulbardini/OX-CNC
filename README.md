@@ -1,9 +1,9 @@
 # OX-CNC
-Mod and parts created for ox cnc type router
+## Mod and parts created for ox cnc type router
 
 This is a repository for my mods and parts created for the OX CNC type router.
 
-The Ox is a great open source cnc router and has been enjoyable to create and use.
+The Ox is a great open source cnc router and has been enjoyable to build and use.
 
 I have created a few things to help my setup do what I want it to do.
 
@@ -16,7 +16,7 @@ My only request is to fork or push new modifications to this reposiroty to futur
 
 
 ***
-#### My current occupation is as a research students - 
+#### My current occupation is as a research student. 
 #### My focus - Open Source and how it is used within product design and art
 #### The following if a necessary ethics requirement for this research.
 
