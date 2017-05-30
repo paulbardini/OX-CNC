@@ -34,7 +34,7 @@ I couldn't find a suitable spindler holder and I really wanted something bomb pr
 
 ![](/img/Image00003%20smaller.jpg)
 
-[V-slot Attachment stl](/CAD/spindler%20vslot%20attachment%20v1.STL)
+[V-slot to Spindle Attachment stl](/CAD/spindler%20vslot%20attachment%20v1.STL)
 
 [Spindle Clamp](/CAD/spindle%20clamp.STL)
 
