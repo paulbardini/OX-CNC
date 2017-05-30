@@ -7,6 +7,8 @@ The Ox is a great open source cnc router and has been enjoyable to build and use
 - Here are links to other build - [www.openbuilds.com](http://www.openbuilds.com/?category=cnc-router-builds&id=286)
 - As well here is the place where I purchased the parts for the mechanics - [Maker Store in Australia](http://www.makerstore.com.au/)
 
+![](/img/Image00001%20smaller.jpg)
+
 #### My Setup 
  - Ox CNC mechanical kit large (cut 1200 by 750)
  - GeckoDrive 5400
@@ -26,8 +28,11 @@ My only request is to fork or push new modifications to this reposiroty to futur
 
 I couldn't find a suitable spindler holder and I really wanted something bomb proof. This was printed on a Up Box, which did an amazing job - solid. Fit perfectly first time and the spindle motor was snug - no movement.
 [Link to CAD files](/CAD)
+
 ![](/img/Image00003%20smaller.jpg)
+
 [V-slot Attachment stl](/CAD/spindler%20vslot%20attachment%20v1.STL)
+
 [Spindle Clamp](/CAD/spindle%20clamp.STL)
 
 The Ox has an annoying problem - once it is assembled, you cannot get t-nut into the slot; on some slots anyway.
