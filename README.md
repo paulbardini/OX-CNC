@@ -4,15 +4,38 @@
 This is a repository for my mods and parts created for the OX CNC type router.
 
 The Ox is a great open source cnc router and has been enjoyable to build and use.
+- Here are links to other build - [www.openbuilds.com](http://www.openbuilds.com/?category=cnc-router-builds&id=286)
+- As well here is the place where I purchased the parts for the mechanics - [Maker Store in Australia](http://www.makerstore.com.au/)
 
+#### My Setup 
+ - Ox CNC mechanical kit large (cut 1200 by 750)
+ - GeckoDrive 5400
+ - nema 23 steppers
+ - Makita 730 Spindler trimmer router
+ - Arduino and cnc shield - I control the G540 via the cnc shield not a computer parallel port.
+ - [GRBL](https://github.com/grbl/grbl/wiki) firmware 
+ - [Universal Gcode sender](https://github.com/winder/Universal-G-Code-Sender)
+ - [Bcnc Gcode Sender](https://github.com/vlachoudis/bCNC)
+ - Toolpathing Autodesk Fusion
+ 
 I have created a few things to help my setup do what I want it to do.
-
 All files are available to upload and use. All the Cad file - in Solidworks format - are located here (link to come).
 My only request is to fork or push new modifications to this reposiroty to future share.
 
+#### Firstly Spindler Motor Holder
 
+I couldn't find a suitable spindler holder and I really wanted something bomb proof. This was printed on a Up Box, which did an amazing job - solid. Fit perfectly first time and the spindle motor was snug - no movement.
+[Link to CAD files](/CAD)
+![](/img/Image00003%20smaller.jpg)
+[V-slot Attachment stl](/CAD/spindler%20vslot%20attachment%20v1.STL)
+[Spindle Clamp](/CAD/spindle%20clamp.STL)
 
+The Ox has an annoying problem - once it is assembled, you cannot get t-nut into the slot; on some slots anyway.
+I design a clip in t-nut limit switch holder. It snaps into position and then tigthen a crews to hold tight.
 
+[V-solt limit switch attachment](/CAD/limit%20switch%20insert%20version%201.STL)
+
+Thats it for now - more soon - please share-modify-create.
 
 
 ***
