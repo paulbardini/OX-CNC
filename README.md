@@ -1,5 +1,5 @@
 # OX-CNC
-## Mod and parts created for ox cnc type router
+## Mod and parts created for Ox CNC type router
 
 This is a repository for my mods and parts created for the OX CNC type router.
 
@@ -27,6 +27,9 @@ My only request is to fork or push new modifications to this reposiroty to futur
 #### Firstly Spindler Motor Holder
 
 I couldn't find a suitable spindler holder and I really wanted something bomb proof. This was printed on a Up Box, which did an amazing job - solid. Fit perfectly first time and the spindle motor was snug - no movement.
+
+[Have a look at the video of router in action](https://youtu.be/4Z61ZRikJ-g)
+
 [Link to CAD files](/CAD)
 
 ![](/img/Image00003%20smaller.jpg)
